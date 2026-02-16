@@ -1,5 +1,6 @@
 discord.py
-python-dotenv
 pytesseract
 opencv-python
 Pillow
+python-dotenv
+flask
